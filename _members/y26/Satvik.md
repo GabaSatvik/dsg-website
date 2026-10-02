@@ -4,15 +4,15 @@ permalink: /members/Satvik/
 layout: single
 ---
 
-# Parambrata Sinha
+# Satvik Gaba
 
-<img src="{{ site.baseurl }}/assets/images/members/y26/Satvik.png" width="200" height="200" alt="Satvik">
+<img src="{{ site.baseurl }}/assets/images/members/y26/Satvik.jpg" width="200" height="200" alt="Satvik">
 
 _Core Member, DSG IIT Roorkee_
 
 ## About Me
 
-Hello, I'm Satvik Gaba, a sophomore student exploring Deep learning.
+Hello, I'm Satvik Gaba, a sophomore exploring Deep Learning , Reinforcement Learning.
 
 ## Education
 
